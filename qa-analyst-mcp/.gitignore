@@ -1,0 +1,35 @@
+# Entorno virtual (>200MB — no subir)
+env/
+
+# Entregables generados (se regeneran con el pipeline)
+output/*.docx
+output/*.xlsx
+output/*.csv
+output/wal_*.json
+output/corpus.json
+output/qa_suite.db
+output/memory.json
+output/token_usage.json
+output/TEST_*
+output/skill-observations/
+
+# Variables de entorno (contiene API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Graphify (archivos grandes generados)
+.graphify/graph.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

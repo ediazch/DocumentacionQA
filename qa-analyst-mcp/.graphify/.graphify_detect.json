@@ -1,0 +1,71 @@
+{
+  "files": {
+    "code": [
+      "agents_config.py",
+      "api/__init__.py",
+      "api/rest_server.py",
+      "core/__init__.py",
+      "core/abuse_case_generator.py",
+      "core/automation_engine.py",
+      "core/case_builder.py",
+      "core/corpus_manager.py",
+      "core/coverage_metrics.py",
+      "core/database.py",
+      "core/istqb_classifier.py",
+      "core/maintenance_testing.py",
+      "core/owasp_matrix.py",
+      "core/pairwise_generator.py",
+      "core/performance_engine.py",
+      "core/pipeline_state.py",
+      "core/quality_gates.py",
+      "core/technique_selector.py",
+      "core/version_manager.py",
+      "generators/__init__.py",
+      "generators/excel_generator.py",
+      "generators/word_generator.py",
+      "main.py",
+      "mcp_server.py",
+      "setup.py",
+      "skills/global/__init__.py",
+      "skills/global/error_handling.py",
+      "skills/global/logging_skill.py",
+      "skills/specific/performance/__init__.py",
+      "skills/specific/qa/__init__.py",
+      "skills/specific/security/__init__.py",
+      "startup.py",
+      "tests/__init__.py",
+      "tests/test_pipeline.py"
+    ],
+    "document": [
+      "PROMPT_MAESTRO.md",
+      "README.md",
+      "requirements.txt"
+    ],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "total_files": 37,
+  "total_words": 31739,
+  "needs_graph": false,
+  "warning": "Corpus is ~31.739 words - fits in a single context window. You may not need a graph.",
+  "skipped_sensitive": [
+    "output/Monitoreo_Productos_RQ_Monitoreo_de_productos_V1_4_20260902_v1_QADeck_20260908-0947.docx [office conversion requires async - use pipeline]",
+    "output/Monitoreo_Productos_RQ_Monitoreo_de_productos_V1_4_20260902_v1_TestCases_20260908-0947.xlsx [office conversion requires async - use pipeline]"
+  ],
+  "graphifyignore_patterns": 0,
+  "scope": {
+    "requested_mode": "auto",
+    "resolved_mode": "all",
+    "source": "default-auto",
+    "root": ".",
+    "candidate_count": null,
+    "included_count": 37,
+    "excluded_untracked_count": 0,
+    "excluded_ignored_count": 0,
+    "excluded_sensitive_count": 0,
+    "missing_committed_count": 0,
+    "warnings": [],
+    "recommendation": null
+  }
+}

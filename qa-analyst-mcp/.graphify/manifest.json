@@ -1,0 +1,150 @@
+{
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/agents_config.py": {
+    "mtime": 1788995830381.838,
+    "hash": "8a01759816e7c2e1e573b1e95a630c54"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/api/__init__.py": {
+    "mtime": 1789149760354.0813,
+    "hash": "274cf3715ac642b2c5d498d764b2b67e"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/api/rest_server.py": {
+    "mtime": 1789149753906.3303,
+    "hash": "774cd7a268d9c2580875913be597f006"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/__init__.py": {
+    "mtime": 1788828749190.7761,
+    "hash": "45af9352edef4c9c88cf3af23ad23988"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/abuse_case_generator.py": {
+    "mtime": 1788828683123.2634,
+    "hash": "183c8b3f7d3962628683ce18f61d310f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/automation_engine.py": {
+    "mtime": 1788828718682.702,
+    "hash": "3d0e7bc4597a90dd54fabdbad132671d"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/case_builder.py": {
+    "mtime": 1788901347144.19,
+    "hash": "c6a25e91e29685df22ba58e522095144"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/corpus_manager.py": {
+    "mtime": 1788828355055.26,
+    "hash": "dbb1f512db17dbdcc4543e9cf3558be9"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/coverage_metrics.py": {
+    "mtime": 1788828536627.9644,
+    "hash": "d28c8c61ef86636a6c413eb50915d897"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/database.py": {
+    "mtime": 1789149692130.691,
+    "hash": "1624226ae94659b83c2bee5a8ab7653b"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/istqb_classifier.py": {
+    "mtime": 1788828423691.4824,
+    "hash": "fd4f25a159f3ea493f52e4446a64ec1f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/maintenance_testing.py": {
+    "mtime": 1788828744325.798,
+    "hash": "3b91576da642a5a14cefe15aaa09efb1"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/owasp_matrix.py": {
+    "mtime": 1788829205164.3914,
+    "hash": "5e8d7ee630e20ec57d79990e3da9623a"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/pairwise_generator.py": {
+    "mtime": 1788829109018.2217,
+    "hash": "6926b53b3a87aa6ecd4e1eacedfde5f9"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/performance_engine.py": {
+    "mtime": 1788828585977.6565,
+    "hash": "82f4761b8afc95f0c53b5ab94e5e139e"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/pipeline_state.py": {
+    "mtime": 1788828303611.1973,
+    "hash": "c5d25efbd86c4374f9c0b1740f932ff0"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/quality_gates.py": {
+    "mtime": 1788828391227.4248,
+    "hash": "925cea43dad60779b844eaaf51edbf3b"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/technique_selector.py": {
+    "mtime": 1788828470366.1443,
+    "hash": "33b8b556d786299e6d30c50ef23947c8"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/core/version_manager.py": {
+    "mtime": 1788829187648.7883,
+    "hash": "886412b2c436025f96abaff4cfc7fe08"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/generators/__init__.py": {
+    "mtime": 1788828752362.0486,
+    "hash": "0b50596b3ce0696b0c86e8b28bb1850b"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/generators/excel_generator.py": {
+    "mtime": 1788877395652.1885,
+    "hash": "839587aaa8f21156ea277a7bb76d95bf"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/generators/word_generator.py": {
+    "mtime": 1788878199216.779,
+    "hash": "10d8047f044e57828d68781e3a8127d0"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/main.py": {
+    "mtime": 1788901385643.8406,
+    "hash": "6727c4195e2ea36d40c68a8e21e8996f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/mcp_server.py": {
+    "mtime": 1788995906112.6917,
+    "hash": "5151d19895df083c4708a31408c6342f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/setup.py": {
+    "mtime": 1789148376566.5913,
+    "hash": "7ae089910b7ea73ac6066ae69cdd7cbd"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/global/__init__.py": {
+    "mtime": 1789149777883.0051,
+    "hash": "2535bc64c95b6ba9d51c5592585f4c0f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/global/error_handling.py": {
+    "mtime": 1789149774612.438,
+    "hash": "6105987eb5062495a5dd2b44bf3252b0"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/global/logging_skill.py": {
+    "mtime": 1789149766440.1326,
+    "hash": "64b625d44032f154c5425d273b25713e"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/specific/performance/__init__.py": {
+    "mtime": 1789149788457.1912,
+    "hash": "f6f419d04199fb323647670075c83bd8"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/specific/qa/__init__.py": {
+    "mtime": 1789149781372.6494,
+    "hash": "449becda5e53840487709cd26b88ad35"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/skills/specific/security/__init__.py": {
+    "mtime": 1789149785076.6711,
+    "hash": "3b8851280c8a511bbc7c72b75b2c033e"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/startup.py": {
+    "mtime": 1789149828191.868,
+    "hash": "7ca6307f8ae6fe05155a81873e7834ef"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/tests/__init__.py": {
+    "mtime": 1789149912836.8955,
+    "hash": "f17c6199b2dce8cd41b12eff9392e09e"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/tests/test_pipeline.py": {
+    "mtime": 1789149944202.0452,
+    "hash": "b9f63a260ea498ecbf67987997e18e54"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/PROMPT_MAESTRO.md": {
+    "mtime": 1789148489569.0981,
+    "hash": "3366277a7fe24951fb6fc0b71d79cc5f"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/README.md": {
+    "mtime": 1789148506246.9038,
+    "hash": "342a54814f2194d9b0eedd8d550e0c75"
+  },
+  "C:/Users/ediazch/Documents/vscode/DocumentacionQA/qa-analyst-mcp/requirements.txt": {
+    "mtime": 1789148495255.723,
+    "hash": "75fd5651a30fe66957962679ba004e75"
+  }
+}
